@@ -67,3 +67,11 @@ footer.page-footer {
 .img-eval {
   max-width: 100%;
 }
+
+.menu-scroll {
+  margin-top: 50px;
+}
+
+.overlay {  
+  background: rgba(0, 0, 0, 0.55);
+}
